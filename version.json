@@ -1,7 +1,7 @@
 {
-  "version_code": 12,
-  "version_name": "1.2.1",
+  "version_code": 13,
+  "version_name": "1.2.2",
   "apk_url": "https://github.com/baseconnect51/releases/releases/latest/download/BaseConnectApp.apk",
-  "release_notes": "• Correção definitiva do ícone do aplicativo no Android (instalador e launcher).\n• Novo visual de TV 100% tela cheia com barra superior estilo Netflix flutuante e Hero Billboard de ponta a ponta.\n• Splash screen escura cinematográfica.",
+  "release_notes": "• Navegação D-pad aprimorada: o seletor fica nas categorias e só move para os filmes/séries ao pressionar Direita.\n• Modernização visual das colunas de listagem (240px, botões estilizados, cabeçalho dinâmico).\n• Tag de Assistido e Parou em (T:E) nos cards de séries e selo ASSISTIDO na lista de episódios.",
   "mandatory": false
 }

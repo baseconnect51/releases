@@ -1,7 +1,7 @@
 {
-  "version_code": 10,
-  "version_name": "1.1.0",
+  "version_code": 11,
+  "version_name": "1.2.0",
   "apk_url": "https://github.com/baseconnect51/releases/releases/latest/download/BaseConnectApp.apk",
-  "release_notes": "• Modo Maratona Netflix: Auto-Play inteligente com contagem regressiva para o próximo episódio nas séries.\n• Botão 'Pular Abertura (+85s)' flutuante para avançar aberturas instantaneamente.\n• Controle por Gestos no Mobile: deslize vertical na esquerda para ajustar o brilho e na direita para o volume.\n• Duplo Toque no Mobile: avança ou retrocede 10s com animação visual integrada.",
+  "release_notes": "• Redesign Visual Completo no estilo Streaming Premium / Netflix (escuro, limpo e cinematográfico).\n• Novo Billboard Hero em tela cheia na Home com trailers e ações rápidas.\n• Carrosséis com Top 10 numérico gigante, Continue Assistindo com barra vermelha e cards focáveis 1.08x.\n• Auto-Play inteligente do próximo episódio nas séries com card regressivo e chave de desativação nas configurações.\n• Navegação com foco suave para TV (D-pad) e barra inferior adaptativa para celular.",
   "mandatory": false
 }

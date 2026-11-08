@@ -1,1 +1,7 @@
-{"mandatory":false,"release_notes":"v1.2.5: Nova tela de Ajustes Split-View (Master-Detail) com calibragem de áudio Bluetooth, carregamento instantâneo via cache em disco com isolate decoding e filtragem ultra-rápida de categorias.","version_code":16,"apk_url":"https://github.com/baseconnect51/releases/releases/download/v1.2.5/BaseConnectApp.apk","version_name":"1.2.5"}
+{
+  "version_code": 17,
+  "version_name": "1.2.6",
+  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.2.6/BaseConnectApp.apk",
+  "release_notes": "v1.2.6: Correção crítica no carregamento de dados do Xtream. Home, canais ao vivo, filmes e séries restaurados com decodificação direta, sanitização segura de strings e navegação instantânea por categorias. Mantida a nova tela de Ajustes Split-View com calibragem de áudio Bluetooth e controle de pais.",
+  "mandatory": false
+}

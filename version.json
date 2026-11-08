@@ -1,7 +1,7 @@
 {
-  "version_code": 19,
-  "version_name": "1.2.8",
-  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.2.8/BaseConnectApp.apk",
-  "release_notes": "v1.2.8: Carregamento ultrarrápido da Home e Detalhes de Filmes/Séries, correção de navegação D-pad no ajuste de Bluetooth/Áudio, e novos Temas Netflix Clássico e Apple Liquid Glass selecionáveis nas configurações.",
+  "version_code": 20,
+  "version_name": "1.2.9",
+  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.2.9/BaseConnectApp.apk",
+  "release_notes": "v1.2.9: Atualização OTA instantânea sem cache; Tema Apple Liquid Glass com translucidez real (vidro fosco), bordas de vidro especular, glow azul Apple System Blue nos botões da Home, barra superior, catálogo de canais, filmes e séries.",
   "mandatory": false
 }

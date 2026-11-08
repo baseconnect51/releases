@@ -1,8 +1,8 @@
-{
-  "version_code": 23,
-  "version_name": "1.3.2",
-  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.3.2/BaseConnectApp.apk",
-  "sha256": "ecdb6c4b45c76665840cc30a5e3c4218ace08153b3530a3b9e08187c2b1f9291",
-  "release_notes": "v1.3.2: Pular Abertura agora fecha instantaneamente ao clique impedindo clique duplo; Menu superior sem duplicidade (Minha Lista exclusiva na Home); Controle remoto D-pad no player e banner de próximo episódio; TopBar responsiva sem sobreposição de avatar; Horário oficial de Brasília corrigido.",
+﻿{
+  "version_code": 24,
+  "version_name": "1.3.3",
+  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.3.3/BaseConnectApp.apk",
+  "sha256": "93a6899655f39b6571cc949a931f5e83f75ca7613ceda86c81f986d54fb90e48",
+  "release_notes": "v1.3.3: Correção de tela verde em TV Box e Android TV (desativa Direct Rendering com strides desalinhados, tone-mapping HDR automático e modo compatibilidade por software); Busca inteligente e rigorosa no TMDB/IMDb com pontuação de relevância, validação de ano e bloqueio de substituição incorreta de títulos e sequências; Seletor rápido de motor de vídeo nas opções do player e em Configurações.",
   "mandatory": false
 }

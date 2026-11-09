@@ -1,8 +1,8 @@
-﻿{
-  "version_code": 24,
-  "version_name": "1.3.3",
-  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.3.3/BaseConnectApp.apk",
-  "sha256": "93a6899655f39b6571cc949a931f5e83f75ca7613ceda86c81f986d54fb90e48",
-  "release_notes": "v1.3.3: Correção de tela verde em TV Box e Android TV (desativa Direct Rendering com strides desalinhados, tone-mapping HDR automático e modo compatibilidade por software); Busca inteligente e rigorosa no TMDB/IMDb com pontuação de relevância, validação de ano e bloqueio de substituição incorreta de títulos e sequências; Seletor rápido de motor de vídeo nas opções do player e em Configurações.",
+{
+  "version_code": 25,
+  "version_name": "1.3.4",
+  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.3.4/BaseConnectApp.apk",
+  "sha256": "e64c2087c09b9f1e8bede2fc81217e8d6194cdf03d02f0171e33f094cee7ae7f",
+  "release_notes": "v1.3.4: Suporte a rolagem automática em todas as telas de Ajustes (Smart TV/Android TV/TV Box); Eliminação completa de piscada preta nas telas de detalhes ao carregar banner/pôster; Botão Voltar acessível por controle remoto D-pad (Cima/Esquerda); Seção Em Alta com integração total ao tema visual selecionado (Apple Liquid Glass/Midnight OLED/Cinema) e deduplicação estrita de filmes/séries; Deduplicação na Home eliminando repetições entre Top 10 e destaques; Idioma do app fixado exclusivamente em Português BR.",
   "mandatory": false
 }

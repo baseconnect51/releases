@@ -2,7 +2,7 @@
   "version_code": 30,
   "version_name": "1.3.8",
   "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.3.8/BaseConnectApp.apk",
-  "sha256": "2559eefb300f4dbecd8916cbb74c84ed4d0c85d92e9d90067d349a3c71af403a",
+  "sha256": "7c1b8b764b2b43f0bd55a2774117ce16efc6388a6e31bbacb3ed5ca0fc67d941",
   "release_notes": "v1.3.8: Otimizacao completa para Android TV (1GB RAM) e LG webOS; Novo guia interativo de navegacao por controle remoto (D-Pad); Teste de latencia real de conexao em Ajustes; Sincronizacao perfeita de audio e video sem lentidao; Pacote oficial LG webOS 100% offline com packageinfo.json.",
   "mandatory": false
 }

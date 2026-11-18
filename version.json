@@ -1,8 +1,8 @@
 {
-  "version_code": 29,
-  "version_name": "1.3.7",
-  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.3.7/BaseConnectApp.apk",
-  "sha256": "407920bd88348a670767a637c721fe8a000d6aae7e2fe55762cd20285a841ce4",
-  "release_notes": "v1.3.7: Integracao oficial com o Painel BaseConnect na nuvem (baseconnectapps.vercel.app); Nome da lista dinamico sincronizado em tempo real; Nova tela de ativacao Dark Cinema OLED sem quebras visuais; Ocultacao do botao de logout para usuarios com licenca ativa; Migracao automatica com 1 ano de cortesia para usuarios validadores.",
+  "version_code": 30,
+  "version_name": "1.3.8",
+  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.3.8/BaseConnectApp.apk",
+  "sha256": "2559eefb300f4dbecd8916cbb74c84ed4d0c85d92e9d90067d349a3c71af403a",
+  "release_notes": "v1.3.8: Otimizacao completa para Android TV (1GB RAM) e LG webOS; Novo guia interativo de navegacao por controle remoto (D-Pad); Teste de latencia real de conexao em Ajustes; Sincronizacao perfeita de audio e video sem lentidao; Pacote oficial LG webOS 100% offline com packageinfo.json.",
   "mandatory": false
 }

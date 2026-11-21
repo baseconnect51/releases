@@ -1,8 +1,8 @@
 {
-  "version_code": 31,
-  "version_name": "1.3.9",
-  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.3.9/BaseConnectApp.apk",
-  "sha256": "21cc74a56f6f27330b7d250695229ade13e86a386f417e3755aa2667eca36a49",
-  "release_notes": "v1.3.9: Otimizações de estabilidade na reprodução contínua; Melhorias de desempenho e fluidez para Smart TVs e TV Boxes.",
+  "version_code": 32,
+  "version_name": "1.4.0",
+  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.4.0/BaseConnectApp.apk",
+  "sha256": "0b0744919b00eb0016499128301791cebf4f649450a70553b8225547b372e443",
+  "release_notes": "v1.4.0: Otimizações de estabilidade na reprodução contínua; Melhorias de desempenho e fluidez para Smart TVs e TV Boxes.",
   "mandatory": false
 }

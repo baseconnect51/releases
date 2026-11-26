@@ -1,8 +1,12 @@
 {
-  "version_code": 33,
-  "version_name": "1.4.1",
-  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.4.1/BaseConnectApp.apk",
-  "sha256": "631593f17e1e5cc583bb8b268094bc2ec7088e6a03fe6a0532721a370f68ef2f",
-  "release_notes": "v1.4.1: Busca com debounce, player com buffer otimizado, correções de segurança no painel, queries paralelas e filtro de adultos no controle parental.",
+  "version_code": 34,
+  "version_name": "1.4.2",
+  "apk_url": "https://github.com/baseconnect51/releases/releases/download/v1.4.2/BaseConnectApp.apk",
+  "apk_url_arm64": "https://github.com/baseconnect51/releases/releases/download/v1.4.2/BaseConnectApp_arm64-v8a.apk",
+  "apk_url_armeabi": "https://github.com/baseconnect51/releases/releases/download/v1.4.2/BaseConnectApp_armeabi-v7a.apk",
+  "sha256": "46a523f7b3433ba0e2d77b97849c41b926f0d959d29ded45a9c1803c439a89ac",
+  "sha256_arm64": "d4416912ce5152d6cbc855a4da61765c987dacf1d17ec7b9ad70f93f0193da77",
+  "sha256_armeabi": "a86e6ddf43ed6be23d77911041a2aca6074d215af6508d73a4049097b81f6358",
+  "release_notes": "v1.4.2: OTA por ABI — download do APK otimizado por arquitetura (arm64: ~35MB, armeabi-v7a: ~32MB, universal: ~109MB).",
   "mandatory": false
 }
